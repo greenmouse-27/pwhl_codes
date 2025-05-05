@@ -1,0 +1,270 @@
+New York,P1,P2,P3
+12:00 AM,Eldridge,Carpenter,Fillier
+,Giguere,Roque,Tulus
+,Hartje,Downie-Landry,Aurard
+,Saulnier,Rosenthal,Levis
+,Fecteau,,
+,Shelton,Bourbonnais,
+,Zandee-Hart,Nylen Persson,
+,Hobson,Simpson,
+,,,
+12:00 AM,Eldridge,Carpenter,Fillier
+,Tulus,Roque,Giguere
+,Hartje,Downie-Landry,Aurard
+,Fecteau,Rosenthal,Levis
+,Vespa,,
+,Zandee-Hart,Nylen Persson,
+,Simpson,Bourbonnais,
+,Hobson,Baker,
+,,,
+12:00 AM,Eldridge,Carpenter,Fillier
+,Tulus,Roque,Levis
+,Hartje,Downie-Landry,Giguere
+,Fecteau,Rosenthal,Aurard
+,Vespa,,
+,Zandee-Hart,Nylen Persson,
+,Simpson,Bourbonnais,
+,Hobson,Baker,
+,,,
+12:00 AM,Tulus,Carpenter,Fillier
+,Eldridge,Roque,Levis
+,Hartje,Rosenthal,Giguere
+,Fecteau,Downie-Landry,Aurard
+,Vespa,,
+,Zandee-Hart,Nylen Persson,
+,Simpson,Bourbonnais,
+,Hobson,Baker,
+,,,
+12:00 AM,Tulus,Carpenter,Fillier
+,Eldridge,Roque,Levis
+,Hartje,Rosenthal,Giguere
+,Fecteau,Downie-Landry,Aurard
+,Vespa,,
+,Zandee-Hart,Nylen Persson,
+,Simpson,Bourbonnais,
+,Hobson,Baker,
+,,,
+12:00 AM,Tulus ,Carpenter,Fillier
+,Eldridge,Roque,Levis
+,Hartje,Rosenthal,Giguere
+,Fecteau,Downie-Landry,Aurard
+,Saulnier,,
+,Zandee-Hart,Nylen Persson,
+,Simpson,Bourbonnais,
+,Hobson,Knowles,
+,,,
+12:00 AM,Hartje,Carpenter,Fillier
+,Eldridge,Roque,Levis
+,Aurard,Rosenthal,Tulus
+,Fecteau,Downie-Landry,Saulnier
+,,,Giguere
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Hobson,Bourbonnais,
+,,,
+12:00 AM,Hartje,Carpenter,Fillier
+,Eldridge,Roque,Levis
+,Aurard,Rosenthal,Tulus
+,Fecteau,Downie-Landry,Saulnier
+,,,Giguere
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Hobson,Bourbonnais,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Roque,Rosenthal,Eldridge
+,Aurard,Tulus,Hartje
+,Fecteau,Downie-Landry,Giguere
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Hobson,Bourbonnais,
+,,Knowles,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Roque,Rosenthal,Eldridge
+,Aurard,Tulus,Hartje
+,Fecteau,Downie-Landry,Giguere
+,,,Saulnier
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Hobson,Bourbonnais,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Roque,Rosenthal,Eldridge
+,Hartje,Tulus,Giguere
+,Fecteau,Downie-Landry,Girard
+,Aurard,,
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Hobson,Bourbonnais,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Roque,Rosenthal,Eldridge
+,Aurard,Tulus,Giguere
+,Fecteau,Downie-Landry,Girard
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Hobson,Bourbonnais,
+,,Knowles,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Fecteau,Roque,Eldridge
+,Aurard,Tulus,Downie-Landry
+,Girard,Vespa,Giguere
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Hobson,Bourbonnais,
+,,Knowles,
+,,,
+12:00 AM,Levis,Fillier,Eldridge
+,Roque,Rosenthal,Tulus
+,Aurard,Downie-Landry,Giguere
+,Fecteau,Vespa,Girard
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Hobson,Bourbonnais,
+,,Knowles,
+,,,
+12:00 AM,Tulus,Fillier,Eldridge
+,Roque,Rosenthal,Levis
+,Hartje,Downie-Landry,Giguere
+,Girard,Vespa,Fecteau
+,Aurard,,
+,Zandee-Hart,Nylen Persson,
+,Shelton,Simpson,
+,Bourbonnais,Knowles ,
+,,,
+12:00 AM,Roque,Fillier,Eldridge
+,Fecteau,Rosenthal,Levis
+,Hartje,Tulus,Giguere
+,Aurard,Downie-Landry,Girard
+,Vespa,,
+,Shelton,Bourbonnais,
+,Zandee-Hart,Simpson,
+,Hobson,Nylen Persson,
+,,,
+12:00 AM,Roque,Fillier,Eldridge
+,Fecteau,Rosenthal,Levis
+,Hartje,Tulus,Giguere
+,Aurard,Downie-Landry,Girard
+,Shelton,Bourbonnais,
+,Zandee-Hart,Simpson,
+,Hobson,Nylen Persson,
+,,Knowles,
+,,,
+12:00 AM,Eldridge,Carpenter,Fillier
+,Hartje,Roque,Giguere
+,Fecteau,Rosenthal,Levis
+,Aurard,Downie-Landry,Tulus
+,Girard,,
+,Shelton,Bourbonnais,
+,Zandee-Hart,Simpson,
+,Hobson,Nylen Persson,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Fecteau,Rosenthal,Giguere
+,Aurard,Downie-Landry,Tulus
+,Shelton,Bourbonnais,
+,Zandee-Hart,Nylen Persson,
+,Hobson,Simpson,
+,,Knowles,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Fecteau,Rosenthal,Downie-Landry
+,Aurard,Tulus,Giguere
+,Shelton,Bourbonnais,
+,Zandee-Hart,Nylen Persson,
+,Hobson,Simpson,
+,,Knowles,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Fecteau,Rosenthal,Downie-Landry
+,Aurard,Tulus,Giguere
+,Girard,,
+,Shelton,Bourbonnais,
+,Zandee-Hart,Nylen Persson,
+,Hobson,Simpson,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Fecteau,Rosenthal,Downie-Landry
+,Aurard,Tulus,Giguere
+,Girard,,
+,Shelton,Bourbonnais,
+,Zandee-Hart,Nylen Persson,
+,Hobson,Simpson,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Girard,Rosenthal,Downie-Landry
+,Aurard,Tulus,Giguere
+,Fecteau,,
+,Zandee-Hart,Nylen Persson,
+,Simpson,Bourbonnais,
+,Hobson,Bernard,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Girard,Rosenthal,Downie-Landry
+,Aurard,Tulus,Giguere
+,Fecteau,,
+,Zandee-Hart,Bourbonnais,
+,Hobson,Simpson,
+,Shelton,Bernard,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Girard,Rosenthal,Downie-Landry
+,Aurard,Tulus,Giguere
+,Fecteau,,
+,Zandee-Hart,Simpson,
+,Shelton,Bourbonnais,
+,Hobson,Bernard,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Girard,Rosenthal,Downie-Landry
+,Aurard,Tulus,Giguere
+,Fecteau,,
+,Zandee-Hart,Simpson,
+,Shelton,Bourbonnais,
+,Hobson,Bernard,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Girard,Rosenthal,Downie-Landry
+,Fecteau,Tulus,Aurard
+,,,Giguere
+,Zandee-Hart,Simpson,
+,Shelton,Bourbonnais,
+,Hobson,Bernard,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Girard,Rosenthal,Downie-Landry
+,Fecteau,Tulus,Giguere
+,Zandee-Hart,Simpson,
+,Shelton,Bourbonnais,
+,Hobson,Bernard,
+,,Knowles,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Girard,Rosenthal,Downie-Landry
+,Fecteau,Tulus,Giguere
+,Vespa,,
+,Zandee-Hart,Simpson,
+,Shelton,Bourbonnais,
+,Hobson,Bernard,
+,,,
+12:00 AM,Fillier,Carpenter,Levis
+,Hartje,Roque,Eldridge
+,Girard,Rosenthal,Downie-Landry
+,Fecteau,Tulus,Giguere
+,Vespa,,
+,Zandee-Hart,Simpson,
+,Shelton,Bourbonnais,
+,Hobson,Bernard,
