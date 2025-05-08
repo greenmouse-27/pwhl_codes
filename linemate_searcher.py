@@ -28,6 +28,8 @@ else:
 # print(ds)
 
 player_name = str(input('Enter player last name, with no accents:'))
+playercount = ds['P1'].where(ds['P1']==player_name).dropna().count() + ds['P2'].where(ds['P2']==player_name).dropna().count() + ds['P3'].where(ds['P3']==player_name).dropna().count()
+print(str(player_name)+' played '+str(playercount)+' times')
 
 # print(ds[ds.applymap(lambda x: x == player_name).any(axis=1)])
 
