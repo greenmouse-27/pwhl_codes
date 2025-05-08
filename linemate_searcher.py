@@ -6,7 +6,7 @@ teamname = str(input('What team do you want to look at? Please enter Boston, Min
 
 if teamname=='Minnesota':
     ds = pd.read_csv('MinnesotaFrost_test.csv')
-    print('ope')
+    print('IN FROST WE FRUST')
 elif teamname=='Boston':
     ds = pd.read_csv('BostonFleet.csv')
     print('GO FLEET GO!')
@@ -15,6 +15,7 @@ elif teamname=='Montreal':
     print('ALLEZ LA VICTOIRE!')
 elif teamname=='New York':
     ds=pd.read_csv('NewYorkSirens.csv')
+    print('WEE WOO!!')
 elif teamname=='Ottawa':
     ds = pd.read_csv('OttawaCharge.csv')
     print('GO CHARGE GO!')
