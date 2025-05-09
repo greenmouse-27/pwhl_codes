@@ -4,7 +4,7 @@ import pandas as pd
 
 teamname = str(input('What team do you want to look at? I recognize most forms/combinations of team and city names:')).upper()
 
-if teamname in ['MINNESOTA','MN','MINNESOTA FROST','FROST','FORST','FRUST']:
+if teamname in ['MINNESOTA','MN','MINNESOTA FROST','MIN','FROST','FORST','FRUST']:
     ds = pd.read_csv('MinnesotaFrost_test.csv')
     print('IN FROST WE FRUST')
 elif teamname in ['BOSTON','BOS','FLEET','FREET','BOSTON FLEET']:
