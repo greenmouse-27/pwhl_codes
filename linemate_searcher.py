@@ -28,14 +28,14 @@ else:
     print('Sorry, I do not recognize that team name')
     quit
 
-player_name = str(input('Enter player last name, with no accents:')).title()
+player_name = str(input('Enter player last name, with no accents:'))
 
 playercount = ds['P1'].where(ds['P1']==player_name).dropna().count() + ds['P2'].where(ds['P2']==player_name).dropna().count() + ds['P3'].where(ds['P3']==player_name).dropna().count()
 print(str(player_name)+' played '+str(playercount)+' times')
 
 while playercount ==0:
     print('I don\'t recognize that name - could you check the spelling?')
-    player_name = str(input('Enter player last name only, with no accents:')).title()
+    player_name = str(input('Enter player last name only, with no accents, and proper capitalization:')).title()
     playercount = ds['P1'].where(ds['P1']==player_name).dropna().count() + ds['P2'].where(ds['P2']==player_name).dropna().count() + ds['P3'].where(ds['P3']==player_name).dropna().count()
     print(str(player_name)+' played '+str(playercount)+' times')
     
@@ -70,7 +70,7 @@ are_you_done = 'no'
 are_you_done = str(input('Do you want to add a second player? (yes/no):'))
 
 if are_you_done in ['yes','YES','Yes']:
-    player2_name = str(input('Enter second player last name:')).title()
+    player2_name = str(input('Enter second player last name:'))
     
     for position in ['P1','P2','P3']:
         for mate in ['P1','P2','P3']:
