@@ -40,7 +40,7 @@ print(str(player_name)+' played '+str(playercount)+' times')
 
 while playercount ==0:
     print('I don\'t recognize that name - could you check the spelling?')
-    player_name = str(input('Enter player last name only, with no accents, and proper capitalization:')).title()
+    player_name = str(input('Enter player last name only, with no accents, and proper capitalization:'))
     playercount = ds['P1'].where(ds['P1']==player_name).dropna().count() + ds['P2'].where(ds['P2']==player_name).dropna().count() + ds['P3'].where(ds['P3']==player_name).dropna().count()
     print(str(player_name)+' played '+str(playercount)+' times')
     
