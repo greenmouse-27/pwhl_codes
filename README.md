@@ -1,7 +1,12 @@
 # pwhl_codes
-Codes for interesting stats about PWHL teams lineups from the 2024-2025 Regular Season. Code written by Erin, posted lineups compiled by Arin of the PWHL Discord
+Codes for interesting stats about PWHL teams lineups from the 2024-2025 Regular Season. Code written by Erin, posted lineups compiled by Arin of the PWHL Discord. 
 
-# instructions
+# Instructions
 you will need an installation of python with the pandas package. Anaconda is most often used for this (as the python installation) but there are lots of other ways to do it too.
 
 run `python linemate_searcher.py` in the command line and follow the instructions. 
+
+# Future Work
+(currently pending Erin finishing her PhD)
+- include the 2025 Playoff lineups 
+- include the 2025-2026 season lineups once the season begins
