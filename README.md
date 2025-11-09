@@ -9,4 +9,5 @@ run `python linemate_searcher.py` in the command line and follow the instruction
 # Future Work
 (currently pending Erin finishing her PhD)
 - include the 2025 Playoff lineups 
-- include the 2025-2026 season lineups once the season begins
+- improve filtering of forward/defense status
+- subdivide results by LW/RW/C/LD/RD (positional) information
