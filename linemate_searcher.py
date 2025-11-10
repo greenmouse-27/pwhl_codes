@@ -30,7 +30,7 @@ else:
 
 player_name = str(input('Enter player last name, with no accents:')).title()
 
-# need to find a better way of filtering by names with atypical capitalization
+# need to find a better way of filtering by names with atypical capitalization.
 if player_name == 'Mcmahon':
     player_name='McMahon'
 if player_name == 'Mcquigge':
