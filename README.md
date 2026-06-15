@@ -7,7 +7,6 @@ you will need an installation of python with the pandas package. Anaconda is mos
 run `python linemate_searcher.py` in the command line and follow the instructions. 
 
 # Future Work
-(currently pending Erin finishing her PhD)
-- include the 2025 Playoff lineups 
+- update lineups to include 2025 playoffs and 2025-2026 regular season and playoffs
 - improve filtering of forward/defense status
 - subdivide results by LW/RW/C/LD/RD (positional) information
