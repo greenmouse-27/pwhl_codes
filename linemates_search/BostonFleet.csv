@@ -1,0 +1,268 @@
+Boston,P1,P2,P3
+12:00 AM,Bilka,Muller,Knight
+,Rattray,Tapani,Shirley
+,Gabel,Brandt,Schafzahl
+,Girard,Adzija,Maloney
+,,,Pelkey
+,Keller,Bard,
+,Greco,Morin,
+,Brown,Digirolamo,
+,,,
+12:00 AM,Muller,Tapani,Schafzahl
+,Bilka,Brandt,Knight
+,Rattray,Adzija,Gabel
+,Pelkey,Maloney,Shirley
+,Keller,Bard,
+,Pejsova,Digirolamo,
+,Greco,,
+,,,
+12:00 AM,Girard,Tapani,Schafzahl
+,Bilka,Brandt,Knight
+,Rattray,Adzija,Gabel
+,Pelkey,Maloney,Shirley
+,Keller,Bard,
+,Brown,Digirolamo,
+,Greco,Morin,
+,Pejsova,,
+,,,
+12:00 AM,Muller,Tapani,Schafzahl
+,Bilka,Brandt,Knight
+,Rattray,Adzija,Gabel
+,Pelkey,Maloney,Shirley
+,Keller,Bard,
+,Brown,Digirolamo,
+,Greco,Morin,
+,Pejsova,,
+,,,
+12:00 AM,Muller,Tapani,Schafzahl
+,Bilka,Brandt,Knight
+,Rattray,Adzija,Gabel
+,Pelkey,Maloney,Shirley
+,Keller,Bard,
+,Brown,Digirolamo,
+,Greco,Morin,
+,Pejsova,,
+,,,
+12:00 AM,Bilka,Tapani,Knight
+,Muller,Brandt,Rattray
+,Schafzahl,Adzija,Gabel
+,Pelkey,Maloney,Shirley
+,,Girard,
+,Keller,Pejsova,
+,Digirolamo,Bard,
+,Brown,Morin,
+,,,
+12:00 AM,Bilka,Tapani,Knight
+,Muller,Maloney,Shirley
+,Schafzahl,Brandt,Rattray
+,Pelkey,Adzija,Babstock
+,Keller,Pejsova,
+,Digirolamo,Bard,
+,Brown,Morin,
+,Greco,,
+,,,
+12:00 AM,Bilka,Tapani,Knight
+,Muller,Maloney,Shirley
+,Schafzahl,Brandt,Rattray
+,Girard,Adzija,Pelkey
+,Keller,Pejsova,
+,Brown,Morin,
+,Greco,Digirolamo,
+,Bard,,
+,,,
+12:00 AM,Bilka,Tapani,Knight
+,Muller,Maloney,Shirley
+,Schafzahl,Brandt,Rattray
+,Girard,Adzija,Babstock
+,Keller,Pejsova,
+,Brown,Morin,
+,Digirolamo,Bard,
+,Greco,,
+,,,
+12:00 AM,Bilka,Tapani,Knight
+,Muller,Maloney,Shirley
+,Schafzahl,Brandt,Rattray
+,Gabel,Adzija,Babstock
+,Keller,Pejsova,
+,Digirolamo,Bard,
+,Brown,Morin,
+,Greco,,
+,,,
+12:00 AM,Bilka,Tapani,Knight
+,Muller,Maloney,Shirley
+,Schafzahl,Brandt,Rattray
+,Gabel,Adzija,Pelkey
+,,Saulnier,
+,Keller,Pejsova,
+,Digirolamo,Bard,
+,Brown,Morin,
+,,,
+12:00 AM,Bilka,Tapani,Knight
+,Muller,Maloney,Shirley
+,Saulnier,Brandt,Rattray
+,Schafzahl,Adzija,Pelkey
+,Keller,Pejsova,
+,Digirolamo,Bard,
+,Brown,Morin,
+,,,
+12:00 AM,Bilka,Tapani,Knight
+,Muller,Maloney,Shirley
+,Saulnier,Brandt,Rattray
+,Schafzahl,Adzija,Pelkey
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Pejsova,
+,Greco,,
+,,,
+12:00 AM,Schafzahl,Tapani,Knight
+,Muller,Maloney,Shirley
+,Rattray,Brandt,Saulnier
+,Adzija,Dempsey,Pelkey
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Pejsova,
+,Greco,,
+,,,
+12:00 AM,Saulnier,Tapani,Knight
+,Muller,Maloney,Shirley
+,Schafzahl,Brandt,Rattray
+,Gabel,Adzija,Pelkey
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Pejsova,
+,Greco,,
+,,,
+12:00 AM,Saulnier,Tapani,Knight
+,Muller,Maloney,Shirley
+,Schafzahl,Brandt,Rattray
+,Adzija,Dempsey,Pelkey
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Greco,
+,Pejsova,,
+,,,
+12:00 AM,Saulnier,Tapani,Shirley
+,Muller,Maloney,Knight
+,Schafzahl,Brandt,Rattray
+,Adzija,Dempsey,Pelkey
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Greco,
+,Pejsova,,
+,,,
+12:00 AM,Saulnier,Tapani,Shirley
+,Muller,Maloney,Knight
+,Schafzahl,Brandt,Rattray
+,Adzija,Dempsey,Pelkey
+,,Gabel,
+,Keller,Bard,
+,Pejsova,Morin,
+,Digirolamo,Greco,
+,,,
+12:00 AM,Saulnier,Tapani,Shirley
+,Muller,Maloney,Knight
+,Schafzahl,Brandt,Rattray
+,Gabel,Dempsey,Pelkey
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Greco,
+,Pejsova,,
+,,,
+12:00 AM,Saulnier,Tapani,Shirley
+,Muller,Maloney,Knight
+,Schafzahl,Brandt,Rattray
+,Adzija,Dempsey,Pelkey
+,,Gabel,
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Greco,
+,,,
+12:00 AM,Saulnier,Tapani,Shirley
+,Muller,Maloney,Knight
+,Schafzahl,Brandt,Rattray
+,Adzija,Dempsey,Pelkey
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Greco,
+,Pejsova,,
+,,,
+12:00 AM,Saulnier,Tapani,Shirley
+,Muller,Maloney,Knight
+,Schafzahl,Brandt,Rattray
+,Adzija,Dempsey,Pelkey
+,Keller,Bard,
+,Brown,Morin,
+,Digirolamo,Greco,
+,Pejsova,,
+,,,
+12:00 AM,Muller,Maloney,Knight
+,Saulnier,Tapani,Gabel
+,Schafzahl,Brandt,Rattray
+,Adzija,Babstock,Pelkey
+,Keller,Digirolamo,
+,Brown,Morin,
+,Pejsova,Greco,
+,,Bard,
+,,,
+12:00 AM,Saulnier,Tapani,Knight
+,Muller,Maloney,Gabel
+,Schafzahl,Brandt,Rattray
+,Adzija,Babstock,Pelkey
+,Keller,Digirolamo,
+,Brown,Morin,
+,Pejsova,Greco,
+,,Hartmetz,
+,,,
+12:00 AM,Saulnier,Tapani,Knight
+,Muller,Maloney,Gabel
+,Schafzahl,Brandt,Rattray
+,Adzija,Babstock,Shirley
+,,Pelkey,
+,Keller,Digirolamo,
+,Morin,Brown,
+,Pejsova,Greco,
+,,,
+12:00 AM,Saulnier,Tapani,Knight
+,Muller,Maloney,Gabel
+,Schafzahl,Brandt,Rattray
+,Adzija,Pelkey,Gabel
+,Keller,Digirolamo,
+,Brown,Morin,
+,Pejsova,Greco,
+,Bard,,
+,,,
+12:00 AM,Pejsova,Tapani,Knight
+,Muller,Brandt,Maloney
+,Schafzahl,Rattray,Shirley
+,Adzija,Dempsey,Pelkey
+,,Gabel,
+,Keller,Bard,
+,Digirolamo,Greco,
+,Brown,Morin,
+,,,
+12:00 AM,Saulnier,Tapani,Knight
+,Bilka,Maloney,Shirley
+,Schafzahl,Brandt,Gabel
+,Adzija,Rattray,Babstock
+,Brown,Morin,
+,Greco,Keller,
+,Digirolamo,Pejsova,
+,Hartmetz,,
+,,,
+12:00 AM,Saulnier,Tapani,Knight
+,Bilka,Maloney,Shirley
+,Schafzahl,Brandt,Gabel
+,Adzija,Rattray,Babstock
+,Brown,Morin,
+,Greco,Keller,
+,Digirolamo,Pejsova,
+,Bard,,
+,,,
+12:00 AM,Saulnier,Tapani,Shirley
+,Bilka,Maloney,Knight
+,Schafzahl,Brandt,Gabel
+,Adzija,Rattray,Babstock
+,Brown,Morin,
+,Greco,Keller,
+,Digirolamo,Pejsova,
+,Bard,,
