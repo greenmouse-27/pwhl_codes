@@ -13,13 +13,22 @@ This code uses data obtained via Lars Skytte's (hockey-statistics.com) web scrap
 You will need an installation of python with the pandas package. Anaconda is most often used for this (as the python installation) but there are lots of other ways to do it too. For the shot plotting codes, you will also need the matplotlib and [mplhockey](https://github.com/mlsedigital/mplhockey) packages. If you want to use the python script (as opposed to the Jupyter notebook) for shot plotting, which saves images, you will also need the unidecode package.
 
 ## Linemate searcher
-in the linemates_search directory, run `python linemate_searcher.py` in the command line and follow the instructions. 
+in the linemates_search directory, run 
+```shell
+python linemate_searcher.py
+``` 
+in the command line and follow the instructions. 
 
 ## Shot plotting
-Both a jupyter notebook and a python script are included in the shot_data folder. The Jupyter notebook is recommended if you are familar with the format and want to fiddle with the settings yourself. The python script will generate and save a LOT of plots once that you can then peruse. 
+Both a Jupyter notebook and a python script are included in the shot_data folder. The Jupyter notebook is recommended if you are familar with the format and want to fiddle with the settings yourself. The python script will generate and save a LOT of plots once that you can then peruse.
+For python newbies, run
+```shell
+python shot_plotting_script.py
+```
+in the command line in the directory with that file, and then look at the plots that were generated and saved in the Figures folder.
 
 # Future Work
 - update lineups to include 2025 playoffs and 2025-2026 regular season and playoffs
-- improve filtering of forward/defense status
+- improve filtering of forward/defense status for linemates code
 - subdivide results by LW/RW/C/LD/RD (positional) information
 - update shot plotter to grab most recent data from the PWHL site

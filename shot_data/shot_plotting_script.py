@@ -36,6 +36,10 @@ y_grid = np.linspace(-13,13,27)
 X,Y = np.meshgrid(x_grid,y_grid)
 posns = np.vstack([X.ravel(),Y.ravel()])
 
+# PWHL data has some errors in it: 
+# notably the left-to-right shot position information is swapped from normal cartesian coordinates
+# this section deals with that and puts all shots on the same side of the centre line as the net being shot at
+# future work: filter out any shots that actually were taken from behind centre (e.g. some empty net goals)
 ds2=ds
 for loc in ds['xLocation'].index:
     if ds['xLocation'][loc]<0:
@@ -52,11 +56,13 @@ shotquality_dict = {
     'Non quality on net':2}
 
 #give shot quality irrespective of goal status a numerical value
+#not currently in use but when multiple years of data are included might be able to filter by this
 ds2['shotQuality_num'] = [shotquality_dict[i] for i in ds2['shotQuality']]
 
 #edit this to try different bin sizes for the 2D histogram
 bins = 6
 
+# up the min_shots number if you want only players with more robust numbers
 min_shots = 10
 plot_types = ['SHAA','SP','xG']
 posn_dict={
@@ -64,7 +70,7 @@ posn_dict={
     'D':'defender'
 }
 
-
+# loop through players that meet the criteria above and save plots of their shots!
 for POSN in ['F','D']:
     list_of_posn_players = players.loc[players['pos']==POSN]['PlayerID'].values
     ds3 = ds2.loc[ds2['Shooter'].isin(list_of_posn_players)]
